@@ -1,0 +1,105 @@
+body{
+  background-color:#d9ecf2;
+  margin:0px;
+  text-align: center;
+  font-size:28px
+  color:#40514E;
+}
+.firststpra{
+  font-weight:bold;
+  line-height: 10px;
+}
+h1{
+  margin:0px;
+  color: #66BFBF;
+}
+h1:hover{
+  color:#EAF6F6;
+}
+h2{
+  color:#66BFBF;
+  padding-bottom:10px;
+}
+h3{
+  color:#11999E;
+  line-height: 2;
+}
+hr{
+  border:dotted;
+  border-bottom:none;
+  width:6%;
+  margin:50px auto;
+}
+.top-container{
+  padding-top:100px;
+  position: relative;
+  font-family:Sacramento;
+}
+.middle-container{
+  margin:100px 0;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+}
+  .bottom-cloud{      /*.bottom-cloud class for bottom of the cloud*/
+    position:absolute;
+    padding-right:600px;
+    left:150;
+}
+  .top-cloud{ /*.top-cloud class for top of the cloud*/
+    position: absolute;
+    padding-left: 100px;
+    top:40px;
+  }
+    .top{      /*.top class for like coding picture*/
+    height:500px;
+    width:700;
+  }
+  a{
+
+  color:#11999E;
+  margin:10px 20px;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+  .pro{         /*.pro class for profile picture*/
+    width:200px;
+    height:200px;}
+    .intro{
+      width:30%;
+      margin:auto;
+    }
+ .Code{
+    width:30%;
+    float: left;
+    margin:20px;
+    }
+    .desc{
+      font-size:14px;
+
+    }
+  .computer{
+    width:30%;
+    float: right;
+    margin:20px;
+  }
+  .pc{
+    font-size:13px;
+
+  }
+  .contact-msg{
+    width:40%;
+    margin:40px auto 60px;
+  }
+  .copyright{
+    color: #EAF6F6
+  }
